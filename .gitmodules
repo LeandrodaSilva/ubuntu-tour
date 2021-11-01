@@ -1,0 +1,3 @@
+[submodule "apps/ubuntu-tour-terminal"]
+	path = apps/ubuntu-tour-terminal
+	url = https://github.com/LeandrodaSilva/ubuntu-tour-terminal.git
